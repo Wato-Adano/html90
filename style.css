@@ -1,0 +1,41 @@
+#container{
+    #customers {
+      font-family: Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+}
+
+    /*padding:2px ;
+    text-align: center;
+    width:50% ;
+    border: 2px;
+    border-radius: 20xp;
+    border: solid 1px;
+
+}
+p{
+    text-align: center;
+
+ }
+ #ima2{
+    height: 60px;
+    width: 30px;
+ }
+ #ima1{
+    width: 30px;
+    height: 70px;
+    
+ }
+ #button{
+    color: aliceblue;
+    background-color: black;
+    padding: 30px;
+    border-radius: 6px;
+ }
